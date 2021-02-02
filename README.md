@@ -1,5 +1,6 @@
 Prerequisite:
 
+Replace project name with appropriate name
 
 export GOOGLE_APPLICATION_CREDENTIALS=
 
